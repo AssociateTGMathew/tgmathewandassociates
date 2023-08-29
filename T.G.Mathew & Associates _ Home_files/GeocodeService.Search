@@ -1,0 +1,396 @@
+/**/_xdc_._jibasl && _xdc_._jibasl( {
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Mira Bhayandar Road",
+               "short_name" : "Mira Bhayandar Rd",
+               "types" : 
+               [
+                  "route"
+               ]
+            },
+            {
+               "long_name" : "Chandan Shanti",
+               "short_name" : "Chandan Shanti",
+               "types" : 
+               [
+                  "political",
+                  "sublocality",
+                  "sublocality_level_2"
+               ]
+            },
+            {
+               "long_name" : "Mira Road East",
+               "short_name" : "Mira Road East",
+               "types" : 
+               [
+                  "political",
+                  "sublocality",
+                  "sublocality_level_1"
+               ]
+            },
+            {
+               "long_name" : "Thane",
+               "short_name" : "Thane",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Thane",
+               "short_name" : "Thane",
+               "types" : 
+               [
+                  "administrative_area_level_3",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Konkan Division",
+               "short_name" : "Konkan Division",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Maharashtra",
+               "short_name" : "MH",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "401107",
+               "short_name" : "401107",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "14, 16 E Wing, Latif Park, Mira Bhayandar Rd, Chandan Shanti, Mira Road East, Thane, Mira Bhayandar, Maharashtra 401107, India",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 19.2859743,
+               "lng" : 72.86893619999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 19.2873340802915,
+                  "lng" : 72.8702938802915
+               },
+               "southwest" : 
+               {
+                  "lat" : 19.2846361197085,
+                  "lng" : 72.86759591970849
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJWWturUaw5zsRiGbNRxX9QX4",
+         "plus_code" : 
+         {
+            "compound_code" : "7VP9+9H Thane, Maharashtra, India",
+            "global_code" : "7JFJ7VP9+9H"
+         },
+         "types" : 
+         [
+            "establishment",
+            "food",
+            "meal_delivery",
+            "meal_takeaway",
+            "point_of_interest",
+            "restaurant"
+         ]
+      },
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Srishti CHS",
+               "short_name" : "Srishti CHS",
+               "types" : 
+               [
+                  "premise"
+               ]
+            },
+            {
+               "long_name" : "मिरा रोड ईस्ट",
+               "short_name" : "मिरा रोड ईस्ट",
+               "types" : 
+               [
+                  "political",
+                  "sublocality",
+                  "sublocality_level_1"
+               ]
+            },
+            {
+               "long_name" : "मिरा भाइंदर",
+               "short_name" : "मिरा भाइंदर",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "ठाणे",
+               "short_name" : "ठाणे",
+               "types" : 
+               [
+                  "administrative_area_level_3",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "कोंकण डिव्हिजन",
+               "short_name" : "कोंकण डिव्हिजन",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "महाराष्ट्र",
+               "short_name" : "MH",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "401107",
+               "short_name" : "401107",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Srishti CHS, मिरा रोड ईस्ट, मिरा भाइंदर, महाराष्ट्र 401107, India",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 19.2724641,
+                  "lng" : 72.869928
+               },
+               "southwest" : 
+               {
+                  "lat" : 19.2699731,
+                  "lng" : 72.8675023
+               }
+            },
+            "location" : 
+            {
+               "lat" : 19.2712537,
+               "lng" : 72.8687173
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 19.27256758029151,
+                  "lng" : 72.87006413029151
+               },
+               "southwest" : 
+               {
+                  "lat" : 19.2698696197085,
+                  "lng" : 72.86736616970849
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ3x9TKFmw5zsRZ1OCv4xGACU",
+         "types" : 
+         [
+            "premise"
+         ]
+      },
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Srishti CHS",
+               "short_name" : "Srishti CHS",
+               "types" : 
+               [
+                  "premise"
+               ]
+            },
+            {
+               "long_name" : "B-43",
+               "short_name" : "B-43",
+               "types" : 
+               [
+                  "street_number"
+               ]
+            },
+            {
+               "long_name" : "Bhaktivedanta Swami Marg",
+               "short_name" : "Bhaktivedanta Swami Marg",
+               "types" : 
+               [
+                  "route"
+               ]
+            },
+            {
+               "long_name" : "सेक्टर 2",
+               "short_name" : "सेक्टर 2",
+               "types" : 
+               [
+                  "political",
+                  "sublocality",
+                  "sublocality_level_3"
+               ]
+            },
+            {
+               "long_name" : "सृष्टी कॉम्प्लेक्स",
+               "short_name" : "सृष्टी कॉम्प्लेक्स",
+               "types" : 
+               [
+                  "political",
+                  "sublocality",
+                  "sublocality_level_2"
+               ]
+            },
+            {
+               "long_name" : "मिरा रोड ईस्ट",
+               "short_name" : "मिरा रोड ईस्ट",
+               "types" : 
+               [
+                  "political",
+                  "sublocality",
+                  "sublocality_level_1"
+               ]
+            },
+            {
+               "long_name" : "मिरा भाइंदर",
+               "short_name" : "मिरा भाइंदर",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "ठाणे",
+               "short_name" : "ठाणे",
+               "types" : 
+               [
+                  "administrative_area_level_3",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "कोंकण डिव्हिजन",
+               "short_name" : "कोंकण डिव्हिजन",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "महाराष्ट्र",
+               "short_name" : "MH",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "401107",
+               "short_name" : "401107",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Srishti CHS, B-43, Bhaktivedanta Swami Marg, सेक्टर 2, सृष्टी कॉम्प्लेक्स, मिरा रोड ईस्ट, मिरा भाइंदर, महाराष्ट्र 401107, India",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 19.2708386,
+               "lng" : 72.86837109999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 19.2726405802915,
+                  "lng" : 72.8694416802915
+               },
+               "southwest" : 
+               {
+                  "lat" : 19.26994261970849,
+                  "lng" : 72.8667437197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ16xJ1Fiw5zsRQji5ffBih2I",
+         "plus_code" : 
+         {
+            "compound_code" : "7VC9+88 Mira Bhayandar, Maharashtra, India",
+            "global_code" : "7JFJ7VC9+88"
+         },
+         "types" : 
+         [
+            "establishment",
+            "point_of_interest"
+         ]
+      }
+   ],
+   "status" : "OK"
+} )
